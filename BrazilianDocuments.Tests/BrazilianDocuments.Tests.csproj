@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\BrazilianDocuments\BrazilianDocuments.csproj" />
+    <ProjectReference Include="..\BrazilianDocuments\BrazilianDocuments.csproj" />
   </ItemGroup>
 
 </Project>
