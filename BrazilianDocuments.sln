@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrazilianDocuments", "src\BrazilianDocuments\BrazilianDocuments.csproj", "{0DF43795-13A9-4978-A062-85551861B15D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "tests\Tests.csproj", "{A04694DD-9502-457C-8380-63037E82063D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "tests\BrazilianDocuments.Tests\BrazilianDocuments.Tests.csproj", "{A04694DD-9502-457C-8380-63037E82063D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
