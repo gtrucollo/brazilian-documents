@@ -1,2 +1,2 @@
-global using src.Documents;
+global using BrazilianDocuments.Documents;
 global using Xunit;

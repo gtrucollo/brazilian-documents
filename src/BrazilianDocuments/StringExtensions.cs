@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace src.Util;
+namespace BrazilianDocuments;
 
 internal static class StringExtensions
 {

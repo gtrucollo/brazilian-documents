@@ -1,4 +1,4 @@
-namespace src.Documents.Base;
+namespace BrazilianDocuments.Documents.Base;
 
 public interface IDocument
 {

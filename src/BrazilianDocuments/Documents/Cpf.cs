@@ -1,15 +1,14 @@
-using src.Documents.Base;
-using src.Util;
+using BrazilianDocuments.Documents.Base;
 
-namespace src.Documents;
+namespace BrazilianDocuments.Documents;
 
-public class CPF : Document, IDocument
+public class Cpf : Document, IDocument
 {
     private readonly string _value;
 
     private readonly int[] _verify_digits_weights = { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    public CPF(string value)
+    public Cpf(string value)
     {
         _value = value.RemoveMask();
     }
